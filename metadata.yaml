@@ -1,0 +1,40 @@
+_repo: Fighting-in-Cuban-Waters--Or-Under-Schley-on-the-Brooklyn_34306
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    alias: Shute, A. Burnham
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 34306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34306'
+  lccn: '99001371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Spanish-American War, 1898 -- Campaigns -- Cuba -- Juvenile Fiction'
+title: Fighting in Cuban Waters; Or, Under Schley on the Brooklyn
+url: http://www.gutenberg.org/ebooks/34306
